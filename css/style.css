@@ -57,10 +57,16 @@ ul{
 }
 
 .checklist{
-    font-size: 22px;
+    font-size: 12px;
+    background-color: white;
+    color: rgb(50, 201, 143);
 }
 
-.crosslist
+.crosslist{
+    font-size: 12px;
+    background-color: white;
+    color: rgb(241, 75, 130);
+}
 
 /*Background*/
 
@@ -98,7 +104,7 @@ body{
     margin-bottom: 5px;
     margin-right: 2px;
     margin-left: auto;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 .blue{
@@ -116,7 +122,25 @@ body{
     color: rgb(173, 173, 173);
 }
 
+.acquagreen{
+    background-color: rgb(50, 201, 143);
+    color: white;
+}
 
+.orange{
+    background-color: rgb(252, 160, 54);
+    color: white;
+}
+
+.green{
+    background-color: rgb(154, 221, 67);
+    color: white;
+}
+
+.pink{
+    background-color: rgb(184, 75, 166);
+    color: white;
+}
 
 /*Altre Regole*/
 
