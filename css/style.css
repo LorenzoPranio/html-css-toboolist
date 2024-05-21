@@ -23,7 +23,7 @@ h5{
     font-size: 12px;
 }
 
-li{
+.listpos{
     margin-top: 5px;
     margin-bottom: 5px;
     margin-right: 2px;
@@ -33,6 +33,11 @@ li{
 #l-item{
     font-size: 20px;
     font-weight: bold;
+}
+
+#l-itemnd{
+    font-size: 18px;
+    font-weight: 500;
 }
 
 /*Background*/
@@ -112,4 +117,8 @@ footer{
 
 #d-inline-block{
     display: inline-block;
+}
+
+#d-inline{
+    display: inline;
 }
