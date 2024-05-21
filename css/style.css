@@ -23,11 +23,15 @@ h5{
     font-size: 12px;
 }
 
+h6{
+    font-size: 10px;
+}
+
 .listpos{
     margin-top: 5px;
     margin-bottom: 5px;
     margin-right: 2px;
-    margin-left: 55px;
+    margin-left: 35px;
 }
 
 #l-item{
@@ -38,6 +42,14 @@ h5{
 #l-itemnd{
     font-size: 18px;
     font-weight: 500;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.trlist{
+    font-size: 22px;
 }
 
 /*Background*/
@@ -70,14 +82,30 @@ body{
     border-radius: 5px;
 }
 
+.squarec{
+    padding: 5px 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    margin-left: auto;
+    border-radius: 10px;
+}
+
 .blue{
     background-color: rgb(9, 157, 216);
     color: white;
 }
+
+.violet{
+    background-color: rgb(139, 79, 250);
+    color: rgb(255, 255, 255);
+}
+
 .white{
     background-color: white;
     color: rgb(173, 173, 173);
 }
+
 
 
 /*Altre Regole*/
