@@ -44,6 +44,10 @@ h6{
     font-weight: 500;
 }
 
+li{
+    margin: 20px 0;
+}
+
 ul{
     list-style-type: none;
 }
@@ -52,10 +56,16 @@ ul{
     font-size: 22px;
 }
 
+.checklist{
+    font-size: 22px;
+}
+
+.crosslist
+
 /*Background*/
 
 .bwhite{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 body{
